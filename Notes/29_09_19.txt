@@ -1,5 +1,0 @@
-* print() is a function prints what's inside the parenthesis. '' or "" can be used in between.
-
-Methods are used by "." symbol
-* title() is method and displays each word in titlecase, where each word begins with a capital letter. titlecase means first letter as Capital and rest in small.
-* upper() and lower() methods are used to make caps or small the character.
